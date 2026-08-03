@@ -1,2 +1,3 @@
-# myweb-pada1
-การสร้าง Repository เก็บ Website เพื่อใช้สร้าง
+# myweb-pada
+การสร้าง Repository เก็บหน้าเเสดงผล website การ์ตูนของนายภาดา ชูเนตร
+สร้างโดยใช้ Github เพื่อสร้าง URL
